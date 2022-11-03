@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">AppSmart</string>
+    <string name="action_settings">Settings</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">Kotlin PagSeguro</string>
+    <string name="second_fragment_label">Testes Interno</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+    <string name="lorem_ipsum">
+        Uma versão usando Nativo
+    </string>
+
+    <string name="btn_version">Version</string>
+    <string name="btn_ative">Ativar</string>
+</resources>
